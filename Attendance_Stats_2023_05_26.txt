@@ -1,0 +1,6 @@
+Module Record System - Average Attendance Data
+----------------------------------------------
+Modular Programming       SOFT_6017   67.9%  ******
+Programming Fundamentals  SOFT_6018   56.4%  *****
+The best attended module is Modular Programming with a 67.9% attendance rate.
+All modules have attendance above 40%.
